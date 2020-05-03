@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CowKiller2">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="CowKiller2.jar">
+      <element id="module-output" name="CowKiller2" />
+    </root>
+  </artifact>
+</component>
